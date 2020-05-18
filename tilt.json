@@ -1,0 +1,15 @@
+{
+    "version": "0.13.6",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/tilt-dev/tilt/releases/download/v0.13.6/tilt.0.13.6.windows.x86_64.zip",
+            "bin": [
+                "tilt.exe"
+            ],
+            "hash": "658ca099cb7d8095f8dd2e8872af2703dea9dc2b940642e33945376e60714308"
+        }
+    },
+    "homepage": "https://tilt.dev",
+    "license": "Apache-2.0",
+    "description": "Tilt powers multi-service developments for teams that deploy to Kubernetes."
+}
