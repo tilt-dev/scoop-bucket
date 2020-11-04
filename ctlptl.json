@@ -1,0 +1,15 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "http://github.com/tilt-dev/tilt/releases/download/v0.1.0/ctlptl.0.1.0.windows.x86_64.zip",
+            "bin": [
+                "ctlptl.exe"
+            ],
+            "hash": "85a706684dd433f2120ae8d4ba5c14a123b4e9815eaebbdc4a337910f902f51a"
+        }
+    },
+    "homepage": "https://ctlptl.dev/",
+    "license": "Apache-2.0",
+    "description": "Making local Kubernetes clusters easy to set up and tear down"
+}
