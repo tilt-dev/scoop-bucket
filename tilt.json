@@ -1,12 +1,12 @@
 {
-    "version": "0.22.4",
+    "version": "0.22.5",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/tilt-dev/tilt/releases/download/v0.22.4/tilt.0.22.4.windows.x86_64.zip",
+            "url": "https://github.com/tilt-dev/tilt/releases/download/v0.22.5/tilt.0.22.5.windows.x86_64.zip",
             "bin": [
                 "tilt.exe"
             ],
-            "hash": "a42ee80c565334d247a9306a84d1c5fd0cf5511ad60a79aa5943a8cfa4c98767"
+            "hash": "47e515f198ba93e5f278af1337b2d662abb126a44abe6c1651b245c6e86f546e"
         }
     },
     "homepage": "https://tilt.dev/",
