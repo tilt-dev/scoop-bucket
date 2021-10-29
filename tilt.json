@@ -1,15 +1,15 @@
 {
-    "version": "0.22.14",
+    "version": "0.22.15",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/tilt-dev/tilt/releases/download/v0.22.14/tilt.0.22.14.windows.x86_64.zip",
+            "url": "https://github.com/tilt-dev/tilt/releases/download/v0.22.15/tilt.0.22.15.windows.x86_64.zip",
             "bin": [
                 "tilt.exe"
             ],
-            "hash": "bc1a7273de3c6b911b75b266c08f080d5ae85d69aace65fc719c5e2a9b9bcd17"
+            "hash": "35118a7a217b3c67c24038fac5d56410fe7fb4821af04447b04bbeebe3d29a06"
         }
     },
     "homepage": "https://tilt.dev/",
     "license": "Apache-2.0",
-    "description": "Tilt powers multi-service developments for teams that deploy to Kubernetes."
+    "description": "A dev environment as code for microservice apps"
 }
