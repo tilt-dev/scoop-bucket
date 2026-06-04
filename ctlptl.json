@@ -1,12 +1,12 @@
 {
-    "version": "0.9.3",
+    "version": "0.9.4",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/tilt-dev/ctlptl/releases/download/v0.9.3/ctlptl.0.9.3.windows.x86_64.zip",
+            "url": "https://github.com/tilt-dev/ctlptl/releases/download/v0.9.4/ctlptl.0.9.4.windows.x86_64.zip",
             "bin": [
                 "ctlptl.exe"
             ],
-            "hash": "846c019df0437ab2565c416d22bd4557f805ffff26f924ce3bd63c731b36270e"
+            "hash": "9466dc695322ccf28dbe8b0683cf3afa924eebd3ea1e7d30fe128aa0d35ab520"
         }
     },
     "homepage": "https://ctlptl.dev/",
